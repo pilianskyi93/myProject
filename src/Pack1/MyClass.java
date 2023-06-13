@@ -2,14 +2,12 @@ package Pack1;
 
 class MyClass {
 
-    public static int myMethod(int a, int b) {
+    public static int sumOfTwoNumbers(int a, int b) {
         return a + b;
     }
 
     public static void main(String[] args) {
-        int a = 100;
-        int b = 200;
-        int c = myMethod(a, b);
+        int c = sumOfTwoNumbers(100, 200);
         System.out.println(c);
     }
 }
