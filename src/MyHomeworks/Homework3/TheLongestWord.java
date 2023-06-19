@@ -1,4 +1,4 @@
-package Pack1.Homework3;
+package MyHomeworks.Homework3;
 
 public class TheLongestWord {
     public static String findTheLongestWord(String word1, String word2, String word3) {
