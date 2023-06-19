@@ -45,7 +45,6 @@ public class Month {
                 System.out.println("Invalid month number: " + monthNumber);
                 return;
         }
-
         System.out.println("Month number " + monthNumber + " of " + "2023" + " has " + days + " days.");
     }
 
