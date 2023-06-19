@@ -46,6 +46,5 @@ public class OverloadedMethods {
         boolean result = myOverloadedMethod(isPositive);
         System.out.println("Result: " + result);
 
-
     }
 }
