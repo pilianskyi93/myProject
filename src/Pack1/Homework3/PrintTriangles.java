@@ -1,4 +1,4 @@
-package Pack1;
+package Pack1.Homework3;
 
 public class PrintTriangles {
     public static void main(String[] args) {

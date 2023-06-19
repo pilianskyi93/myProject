@@ -1,4 +1,4 @@
-package Pack1;
+package Pack1.Homework1;
 
 class MyClass {
 
