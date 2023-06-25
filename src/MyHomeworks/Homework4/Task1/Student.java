@@ -14,7 +14,15 @@ public class Student {
         this.surname = surname;
     }
 
+    public String getName() {
+        return name;
+    }
+
+    public String getSurname() {
+        return surname;
+    }
+
     public double calculateAverageGrade() {
-        return (mathGrade + economyGrade + foreignLangGrade) / 3;
+        return (mathGrade + economyGrade + foreignLangGrade) / 3.0;
     }
 }
