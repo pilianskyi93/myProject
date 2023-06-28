@@ -10,14 +10,12 @@ class Animal {
 
     private void eat() {
         System.out.println("Animal eats");
-
     }
 
     private void drink() {
         System.out.println("Animal drinks");
 
     }
-
 }
 
 class Pet extends Animal {

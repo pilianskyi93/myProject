@@ -7,6 +7,10 @@ public class TestStudent {
         Student s3 = new Student(3, 5, "Petro");
         Student s4 = new Student(2, 10, "Pavlo");
 
+        s1.setCourse(2);
+        s1.setGrade(3);
+        s1.setName("Carl");
+
         s1.showInfo();
         s2.showInfo();
         s3.showInfo();
