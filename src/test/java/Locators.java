@@ -23,5 +23,7 @@ public class Locators {
     WebElement requestButton = driver.findElement(By.xpath("//a[@class=\"btn mr-2 btn-block\"]"));
     WebElement setUpAWorkFlowYourselfButton = driver.findElement(By.xpath("//a[@data-hydro-click-hmac=\"d4f75abe649849b778f4ba32c0f485594940d5c0d727085cb478bbcf6f5c8ba1\"] "));
     WebElement configureButton = driver.findElement(By.xpath("//a[@class=\"btn d-none d-lg-inline-block\"]"));
-    WebElement deploynodeJsToAzureWebAppConfigureButton = driver.findElement(By.xpath()); // need help here
-    WebElement termsButton = driver.findElement(By.xpath()); //need help here
+    WebElement deploynodeJsToAzureWebAppConfigureButton = driver.findElement(By.xpath("//body/div[contains(@class,'logged-in env-production page-responsive')]/div[contains(@class,'application-main')]/div[1]"));
+    WebElement termsButton = driver.findElement(By.xpath("//li[@Class=\"mr-3 mr-lg-0\"]/a[text()=\"Terms\"]"));
+
+}
