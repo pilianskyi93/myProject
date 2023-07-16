@@ -6,6 +6,8 @@ import com.fasterxml.jackson.databind.annotation.JsonDeserialize;
 import org.openjdk.nashorn.internal.objects.annotations.Getter;
 import org.openjdk.nashorn.internal.objects.annotations.Setter;
 
+import java.util.Collection;
+
 
 @JsonDeserialize(as = Addresses.class)
 public class Addresses {
@@ -441,4 +443,5 @@ public class Addresses {
                 ", Warehouse='" + Warehouse + '\'' +
                 '}';
     }
+
 }

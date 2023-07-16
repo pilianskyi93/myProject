@@ -1,7 +1,5 @@
 package API;
 
-import API.Addresses;
-import API.BaseAPITest;
 import io.restassured.http.ContentType;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
@@ -15,7 +13,6 @@ import java.util.Map;
 import static io.restassured.RestAssured.given;
 import static io.restassured.module.jsv.JsonSchemaValidator.matchesJsonSchema;
 import static org.hamcrest.Matchers.*;
-import static org.junit.jupiter.api.Assertions.assertNotNull;
 
 public class APITest extends BaseAPITest {
 
@@ -83,11 +80,10 @@ public class APITest extends BaseAPITest {
                 .then()
                 .spec(responseSpecification)
                 .extract()
-                .body().jsonPath().getList("data", Addresses.class);  // is this path incorrect or what? When I just 'data' - no error.
+                .body().jsonPath().getList("data.Description", Addresses.class);
 
         System.out.println(DescriptionList);
-        DescriptionList.forEach(x -> assertNotNull("Field should not be null"));
-
+        DescriptionList.forEach(x -> Assertions.assertTrue(x.getPresent().contains("Абазівка")));
 
     }
 
