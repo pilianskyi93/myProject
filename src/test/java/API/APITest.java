@@ -7,7 +7,6 @@ import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
-import javax.mail.Address;
 import java.io.File;
 import java.util.HashMap;
 import java.util.List;
@@ -84,11 +83,11 @@ public class APITest extends BaseAPITest {
                 .then()
                 .spec(responseSpecification)
                 .extract()
-                .body().jsonPath().getList("data.Description", Addresses.class);  // is this path incorrect or what? When I just 'data' - no error.
+                .body().jsonPath().getList("data", Addresses.class);  // is this path incorrect or what? When I just 'data' - no error.
 
         System.out.println(DescriptionList);
         DescriptionList.forEach(x -> assertNotNull("Field should not be null"));
-        ;
+
 
     }
 
