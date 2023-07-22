@@ -1,0 +1,66 @@
+23:13:59 14.07.2023 Home page: DEBUG- [0;32mThe page object of Home pageGitHubIssueCreationAndClose.HomePage[0m
+23:13:59 14.07.2023 Login Page: DEBUG- [0;32mThe page object of Login PageGitHubIssueCreationAndClose.LoginPage[0m
+23:14:01 14.07.2023 Main Page: DEBUG- [0;32mThe page object of Main PageGitHubIssueCreationAndClose.MainPage[0m
+23:14:01 14.07.2023 Main Page: DEBUG- [0;32mThe page object of Main PageGitHubIssueCreationAndClose.MainPage[0m
+23:14:02 14.07.2023 Repository Page: DEBUG- [0;32mThe page object of Repository PageGitHubIssueCreationAndClose.RepositoryPage[0m
+23:14:02 14.07.2023 Repository Page: DEBUG- [0;32mThe page object of Repository PageGitHubIssueCreationAndClose.RepositoryPage[0m
+23:14:02 14.07.2023 Issues Page: DEBUG- [0;32mThe page object of Issues PageGitHubIssueCreationAndClose.IssuesPage[0m
+23:14:02 14.07.2023 Issues Page: DEBUG- [0;32mThe page object of Issues PageGitHubIssueCreationAndClose.IssuesPage[0m
+23:14:33 14.07.2023 Home page: DEBUG- [0;32mThe page object of Home pageGitHubIssueCreationAndClose.HomePage[0m
+23:14:33 14.07.2023 Login Page: DEBUG- [0;32mThe page object of Login PageGitHubIssueCreationAndClose.LoginPage[0m
+23:14:34 14.07.2023 Main Page: DEBUG- [0;32mThe page object of Main PageGitHubIssueCreationAndClose.MainPage[0m
+23:14:34 14.07.2023 Main Page: DEBUG- [0;32mThe page object of Main PageGitHubIssueCreationAndClose.MainPage[0m
+23:14:35 14.07.2023 Repository Page: DEBUG- [0;32mThe page object of Repository PageGitHubIssueCreationAndClose.RepositoryPage[0m
+23:14:35 14.07.2023 Repository Page: DEBUG- [0;32mThe page object of Repository PageGitHubIssueCreationAndClose.RepositoryPage[0m
+23:14:35 14.07.2023 Issues Page: DEBUG- [0;32mThe page object of Issues PageGitHubIssueCreationAndClose.IssuesPage[0m
+23:14:35 14.07.2023 Issues Page: DEBUG- [0;32mThe page object of Issues PageGitHubIssueCreationAndClose.IssuesPage[0m
+23:37:55 14.07.2023 BaseTest: INFO - Chrome driver object creation started
+23:37:56 14.07.2023 BaseTest: INFO - Chrome driver object has been created
+23:37:58 14.07.2023 Home page: DEBUG- [0;32mPageHome page[0m
+23:37:58 14.07.2023 Login Page: DEBUG- [0;32mPageLogin Page[0m
+23:37:59 14.07.2023 Login Page: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated[0m
+23:37:59 14.07.2023 Main Page: DEBUG- [0;32mPageMain Page[0m
+23:37:59 14.07.2023 Main Page: DEBUG- [0;32mPageMain Page[0m
+23:38:00 14.07.2023 Repository Page: DEBUG- [0;32mPageRepository Page[0m
+23:38:00 14.07.2023 Repository Page: DEBUG- [0;32mPageRepository Page[0m
+23:38:00 14.07.2023 Issues Page: DEBUG- [0;32mPageIssues Page[0m
+23:38:00 14.07.2023 Issues Page: DEBUG- [0;32mPageIssues Page[0m
+23:38:03 14.07.2023 Issues Page: DEBUG- [0;32mIssue has been created[0m
+23:38:03 14.07.2023 Issues Page: DEBUG- [0;32mIssue has been closed with comment[0m
+00:01:21 15.07.2023 BaseTest: INFO - [0;34mTest started[0m
+00:01:21 15.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started[0m
+00:01:22 15.07.2023 BaseTest: INFO - [0;34mChrome driver object has been created[0m
+00:01:25 15.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated[0m
+00:01:29 15.07.2023 IssuesPage: DEBUG- [0;32mIssue has been created[0m
+00:01:29 15.07.2023 IssuesPage: DEBUG- [0;32mIssue has been closed with comment[0m
+00:01:32 15.07.2023 IssuesPage: DEBUG- [0;32mTest Passed[0m
+00:06:06 15.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+00:06:06 15.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+00:06:11 15.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+00:06:14 15.07.2023 IssuesPage: DEBUG- [0;32mIssue has been created.[0m
+00:06:14 15.07.2023 IssuesPage: DEBUG- [0;32mIssue has been closed with comment.[0m
+00:06:17 15.07.2023 IssuesPage: DEBUG- [0;32mTest Passed[0m
+00:18:41 15.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+00:18:41 15.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+00:18:46 15.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+00:18:49 15.07.2023 IssuesPage: DEBUG- [0;32mIssue has been created.[0m
+00:18:49 15.07.2023 IssuesPage: DEBUG- [0;32mIssue has been closed with comment.[0m
+00:18:52 15.07.2023 IssuesPage: DEBUG- [0;32mTest Passed[0m
+18:47:24 15.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+18:47:24 15.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+18:47:28 15.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+18:47:32 15.07.2023 IssuesPage: DEBUG- [0;32mIssue has been created.[0m
+18:47:32 15.07.2023 IssuesPage: DEBUG- [0;32mIssue has been closed with comment.[0m
+18:47:35 15.07.2023 IssuesPage: DEBUG- [0;32mTest Passed[0m
+18:49:10 15.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+18:49:10 15.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+18:49:14 15.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+18:49:18 15.07.2023 IssuesPage: DEBUG- [0;32mIssue has been created.[0m
+18:49:18 15.07.2023 IssuesPage: DEBUG- [0;32mIssue has been closed with comment.[0m
+18:49:20 15.07.2023 GitHubIssueCreationAndCloseTest: DEBUG- [0;32mTest Passed[0m
+14:05:53 22.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+14:05:53 22.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+14:05:58 22.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+14:06:01 22.07.2023 IssuesPage: DEBUG- [0;32mIssue has been created.[0m
+14:06:01 22.07.2023 IssuesPage: DEBUG- [0;32mIssue has been closed with comment.[0m
+14:06:04 22.07.2023 GitHubIssueCreationAndCloseTest: DEBUG- [0;32mTest Passed[0m
