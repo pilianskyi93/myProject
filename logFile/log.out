@@ -64,3 +64,9 @@
 14:06:01 22.07.2023 IssuesPage: DEBUG- [0;32mIssue has been created.[0m
 14:06:01 22.07.2023 IssuesPage: DEBUG- [0;32mIssue has been closed with comment.[0m
 14:06:04 22.07.2023 GitHubIssueCreationAndCloseTest: DEBUG- [0;32mTest Passed[0m
+14:43:03 22.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+14:43:03 22.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+14:43:07 22.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+14:43:10 22.07.2023 IssuesPage: DEBUG- [0;32mIssue has been created.[0m
+14:43:10 22.07.2023 IssuesPage: DEBUG- [0;32mIssue has been closed with comment.[0m
+14:43:13 22.07.2023 GitHubIssueCreationAndCloseTest: DEBUG- [0;32mTest Passed[0m
