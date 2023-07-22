@@ -23,7 +23,7 @@ public class GitHubIssueCreationAndCloseTest extends BaseTest {
         RepositoryPage repositoryPage = new RepositoryPage(driver);
         repositoryPage.goToIssuesPage();
         IssuesPage issuesPage = new IssuesPage(driver);
-        issuesPage.SubmitIssueForm("Test title", "Test comment", "Issue closed");
+        issuesPage.submitIssueForm("Test title", "Test comment", "Issue closed");
         issuesPage.getClosedIssueSign();
         Assertions.assertTrue(issuesPage.getClosedIssueSign().isDisplayed());
         printColorMessage("Test Passed", logger, Level.DEBUG);
