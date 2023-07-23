@@ -1,15 +1,10 @@
 import Helpers.Level;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
-import org.junit.jupiter.api.AfterEach;
-import org.junit.jupiter.api.BeforeEach;
-import org.junit.jupiter.api.Test;
-import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.support.ui.WebDriverWait;
-
+import org.testng.annotations.AfterMethod;
+import org.testng.annotations.BeforeMethod;
 
 import static Helpers.ColorPrinter.printColorMessage;
 import static java.util.concurrent.TimeUnit.SECONDS;
@@ -19,7 +14,7 @@ public class BaseTest {
     protected WebDriver driver;
 
 
-    @BeforeEach
+    @BeforeMethod
     public void setUp() {
 
         Logger logger = LogManager.getLogger();
@@ -33,7 +28,7 @@ public class BaseTest {
         driver.get("https://github.com");
     }
 
-    @AfterEach
+    @AfterMethod
     public void tearDown() {
         driver.quit();
     }

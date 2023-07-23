@@ -8,6 +8,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 
 import static Helpers.ColorPrinter.printColorMessage;
+import static org.openqa.selenium.support.ui.ExpectedConditions.elementToBeClickable;
 
 public class IssuesPage extends BasePage {
 
@@ -18,6 +19,9 @@ public class IssuesPage extends BasePage {
     By addCommentBeforeIssueCloseLocator = By.xpath("//textarea[@id='new_comment_field']");
     By closeIssueWithCommentButtonLocator = By.xpath("//span[@class='js-form-action-text']");
     By closedIssueSignLocator = By.xpath("//div[@class='flex-shrink-0 mb-2 flex-self-start flex-md-self-center']//span[@title='Status: Closed'][normalize-space()='Closed']");
+    By labelsButtonLocator = By.xpath("//div[@class='ml-2 pl-2 d-none d-md-flex']//a[@href='/pilya93/test/labels']");
+    By labelsCountLocator = By.xpath("//span[@class='js-labels-count' and text()='0']");
+
 
     private final static String TITLE = "Issues Page";
 
@@ -44,5 +48,14 @@ public class IssuesPage extends BasePage {
         driver.findElement(closedIssueSignLocator).isDisplayed();
         return this;
 
+    }
+
+    public void clickLabelsButton() {
+        webDriverWait.until(elementToBeClickable(driver.findElement(labelsButtonLocator)));
+        driver.findElement(labelsButtonLocator).click();
+    }
+
+    public WebElement noMatchingLabels() {
+        return driver.findElement(labelsCountLocator);
     }
 }
