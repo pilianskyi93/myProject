@@ -70,3 +70,416 @@
 14:43:10 22.07.2023 IssuesPage: DEBUG- [0;32mIssue has been created.[0m
 14:43:10 22.07.2023 IssuesPage: DEBUG- [0;32mIssue has been closed with comment.[0m
 14:43:13 22.07.2023 GitHubIssueCreationAndCloseTest: DEBUG- [0;32mTest Passed[0m
+15:03:24 22.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+15:03:24 22.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+15:03:28 22.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+15:03:32 22.07.2023 IssuesPage: DEBUG- [0;32mIssue has been created.[0m
+15:03:32 22.07.2023 IssuesPage: DEBUG- [0;32mIssue has been closed with comment.[0m
+15:03:34 22.07.2023 GitHubIssueCreationAndCloseTest: DEBUG- [0;32mTest Passed[0m
+16:56:36 22.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+16:56:36 22.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+16:56:40 22.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+16:56:43 22.07.2023 IssuesPage: DEBUG- [0;32mIssue has been created.[0m
+16:56:43 22.07.2023 IssuesPage: DEBUG- [0;32mIssue has been closed with comment.[0m
+16:56:45 22.07.2023 GitHubIssueCreationAndCloseTest: DEBUG- [0;32mTest Passed[0m
+17:29:11 22.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+17:29:11 22.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+17:29:13 22.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+17:29:13 22.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+17:29:41 22.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+17:29:41 22.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+17:29:44 22.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+17:29:44 22.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+17:30:40 22.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+17:30:40 22.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+17:30:43 22.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+17:30:43 22.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+18:00:48 22.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+18:00:48 22.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+18:00:52 22.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+18:00:52 22.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+18:00:52 22.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+18:00:55 22.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+18:00:55 22.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+18:00:55 22.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+18:00:59 22.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+19:45:00 22.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+19:45:00 22.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+19:45:03 22.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+19:45:04 22.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+19:45:04 22.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+19:45:08 22.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+19:45:08 22.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+19:45:08 22.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+19:45:11 22.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+19:50:38 22.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+19:50:38 22.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+19:50:42 22.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+19:50:42 22.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+19:50:42 22.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+19:50:46 22.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+19:50:46 22.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+19:50:46 22.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+19:50:49 22.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+19:52:06 22.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+19:52:06 22.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+19:52:10 22.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+19:54:42 22.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+19:54:42 22.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+19:54:46 22.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+19:57:27 22.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+19:57:27 22.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+19:57:31 22.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+19:59:28 22.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+19:59:28 22.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+19:59:32 22.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+19:59:32 22.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+19:59:32 22.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+19:59:36 22.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+19:59:36 22.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+19:59:36 22.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+19:59:40 22.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+20:04:56 22.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+20:04:56 22.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+20:05:00 22.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+20:05:11 22.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+20:05:11 22.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+20:05:14 22.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+20:05:24 22.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+20:05:24 22.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+20:05:28 22.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+20:06:05 22.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+20:06:05 22.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+20:06:08 22.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+20:06:45 22.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+20:06:45 22.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+20:06:48 22.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+20:06:52 22.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+20:06:52 22.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+20:06:55 22.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+20:06:59 22.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+20:06:59 22.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+20:07:02 22.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+20:09:05 22.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+20:09:05 22.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+20:09:09 22.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+20:09:12 22.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+20:09:12 22.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+20:09:16 22.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+20:09:19 22.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+20:09:19 22.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+20:09:23 22.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+20:10:47 22.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+20:10:47 22.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+20:10:51 22.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+20:10:51 22.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+20:10:51 22.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+20:10:55 22.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+20:10:55 22.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+20:10:55 22.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+20:10:59 22.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+20:17:59 22.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+20:17:59 22.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+20:18:03 22.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+20:18:06 22.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+20:18:06 22.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+20:18:10 22.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+20:18:13 22.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+20:18:13 22.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+20:18:16 22.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+20:21:48 22.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+20:21:48 22.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+20:21:52 22.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+20:21:57 22.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+20:21:57 22.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+20:22:00 22.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+20:22:04 22.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+20:22:04 22.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+20:22:08 22.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+20:26:27 22.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+20:26:27 22.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+20:26:31 22.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+20:26:31 22.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+20:26:31 22.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+20:26:35 22.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+20:26:35 22.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+20:26:35 22.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+20:26:39 22.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+21:25:37 22.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+21:25:37 22.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+21:25:41 22.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+21:25:41 22.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+21:25:41 22.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+21:25:45 22.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+21:25:45 22.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+21:25:45 22.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+21:25:49 22.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+21:27:54 22.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+21:27:54 22.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+21:27:58 22.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+21:27:59 22.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+21:27:59 22.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+21:28:01 22.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+21:28:01 22.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+21:35:19 22.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+21:35:19 22.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+21:35:23 22.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+21:46:55 22.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+21:46:55 22.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+21:46:59 22.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+21:47:04 22.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+21:47:04 22.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+21:47:08 22.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+21:47:13 22.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+21:47:13 22.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+21:47:17 22.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+22:14:45 22.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+22:14:45 22.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+22:14:49 22.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+22:14:54 22.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+22:14:54 22.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+22:14:58 22.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+22:15:04 22.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+22:15:04 22.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+22:15:07 22.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+22:38:20 22.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+22:38:20 22.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+22:38:24 22.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+22:38:30 22.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+22:38:30 22.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+22:38:34 22.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+22:38:41 22.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+22:38:41 22.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+22:38:44 22.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+22:42:48 22.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+22:42:48 22.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+22:42:52 22.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+22:42:58 22.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+22:42:58 22.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+22:43:02 22.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+22:43:08 22.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+22:43:08 22.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+22:43:11 22.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+22:45:17 22.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+22:45:17 22.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+22:45:21 22.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+22:45:22 22.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+22:45:22 22.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+22:45:26 22.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+22:45:27 22.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+22:45:27 22.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+22:45:31 22.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+22:46:18 22.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+22:46:18 22.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+22:46:22 22.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+22:52:14 22.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+22:52:14 22.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+22:52:18 22.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+22:52:20 22.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+22:52:20 22.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+22:52:23 22.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+22:52:24 22.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+22:52:24 22.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+22:52:28 22.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+22:53:08 22.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+22:53:08 22.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+22:53:12 22.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+22:53:13 22.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+22:53:13 22.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+22:53:17 22.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+22:53:18 22.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+22:53:18 22.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+22:53:22 22.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+22:59:54 22.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+22:59:54 22.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+22:59:58 22.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+23:00:01 22.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+23:00:01 22.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+23:00:04 22.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+23:00:11 22.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+23:00:11 22.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+23:00:14 22.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+23:01:27 22.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+23:01:27 22.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+23:01:31 22.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+23:02:24 22.07.2023 LabelsSearchTest: DEBUG- [0;32mTest Passed[0m
+23:07:29 22.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+23:07:29 22.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+23:07:33 22.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+23:07:39 22.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+23:07:39 22.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+23:07:43 22.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+23:07:49 22.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+23:07:49 22.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+23:07:53 22.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+23:09:19 22.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+23:09:19 22.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+23:09:23 22.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+23:09:30 22.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+23:09:30 22.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+23:09:33 22.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+23:09:40 22.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+23:09:40 22.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+23:09:43 22.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+23:20:13 22.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+23:20:13 22.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+23:20:17 22.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+23:20:19 22.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+23:20:19 22.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+23:20:23 22.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+23:20:25 22.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+23:20:25 22.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+23:20:28 22.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+23:24:40 22.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+23:24:40 22.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+23:24:44 22.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+23:24:50 22.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+23:24:50 22.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+23:24:54 22.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+23:25:00 22.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+23:25:00 22.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+23:25:03 22.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+23:29:40 22.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+23:29:40 22.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+23:29:44 22.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+23:29:48 22.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+23:29:48 22.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+23:29:52 22.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+23:29:56 22.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+23:29:56 22.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+23:29:59 22.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+23:33:15 22.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+23:33:15 22.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+23:33:19 22.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+23:33:21 22.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+23:33:21 22.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+23:33:24 22.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+23:33:26 22.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+23:33:26 22.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+23:33:29 22.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+23:34:43 22.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+23:34:43 22.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+23:34:46 22.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+23:34:48 22.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+23:34:48 22.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+23:34:52 22.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+23:34:53 22.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+23:34:53 22.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+23:34:57 22.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+11:02:52 23.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+11:02:52 23.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+11:02:56 23.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+11:06:38 23.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+11:06:38 23.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+11:06:42 23.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+11:07:28 23.07.2023 LabelsSearchTest: DEBUG- [0;32mTest Passed[0m
+11:07:50 23.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+11:07:50 23.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+11:07:55 23.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+11:08:17 23.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+11:08:17 23.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+11:08:21 23.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+11:08:28 23.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+11:08:28 23.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+11:08:31 23.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+11:08:33 23.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+11:08:33 23.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+11:08:36 23.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+11:15:36 23.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+11:15:36 23.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+11:15:40 23.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+11:15:46 23.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+11:15:46 23.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+11:15:49 23.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+11:15:51 23.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+11:15:51 23.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+11:15:55 23.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+11:17:03 23.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+11:17:03 23.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+11:17:08 23.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+11:17:15 23.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+11:17:15 23.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+11:17:18 23.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+11:17:20 23.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+11:17:20 23.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+11:17:24 23.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+11:18:10 23.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+11:18:10 23.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+11:18:14 23.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+11:19:20 23.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+11:19:20 23.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+11:19:24 23.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+11:19:31 23.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+11:19:31 23.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+11:19:34 23.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+11:19:36 23.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+11:19:36 23.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+11:19:39 23.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+11:23:10 23.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+11:23:10 23.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+11:23:14 23.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+11:23:20 23.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+11:23:20 23.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+11:23:24 23.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+11:23:30 23.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+11:23:30 23.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+11:23:34 23.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+11:33:40 23.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+11:33:40 23.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+11:33:43 23.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+11:33:50 23.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+11:33:50 23.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+11:33:54 23.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+11:34:00 23.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+11:34:00 23.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+11:34:03 23.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+11:40:33 23.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+11:40:33 23.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+11:40:37 23.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+11:41:55 23.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+11:41:55 23.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+11:41:59 23.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+11:44:35 23.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+11:44:35 23.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+11:44:39 23.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+11:48:43 23.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+11:48:43 23.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+11:48:47 23.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+11:53:10 23.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+11:53:10 23.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+11:53:14 23.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+11:53:14 23.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+11:53:18 23.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+11:53:20 23.07.2023 LabelsSearchTest: DEBUG- [0;32mTest Passed[0m
+11:53:20 23.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+11:53:20 23.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+11:53:24 23.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+11:53:26 23.07.2023 LabelsSearchTest: DEBUG- [0;32mTest Passed[0m
+11:53:26 23.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+11:53:26 23.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+11:53:29 23.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+11:53:31 23.07.2023 LabelsSearchTest: DEBUG- [0;32mTest Passed[0m
+11:54:37 23.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+11:54:37 23.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+11:54:41 23.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+11:54:43 23.07.2023 LabelsSearchTest: DEBUG- [0;32mTest Passed[0m
+11:54:43 23.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+11:54:43 23.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+11:54:47 23.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+11:54:49 23.07.2023 LabelsSearchTest: DEBUG- [0;32mTest Passed[0m
+11:54:49 23.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+11:54:49 23.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+11:54:53 23.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+11:54:55 23.07.2023 LabelsSearchTest: DEBUG- [0;32mTest Passed[0m
+12:03:36 23.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+12:03:36 23.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+12:03:40 23.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+12:03:42 23.07.2023 LabelsSearchTest: DEBUG- [0;32mTest Passed[0m
+12:03:42 23.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+12:03:42 23.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+12:03:46 23.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+12:03:48 23.07.2023 LabelsSearchTest: DEBUG- [0;32mTest Passed[0m
+12:03:48 23.07.2023 BaseTest: DEBUG- [0;32mTest started[0m
+12:03:48 23.07.2023 BaseTest: INFO - [0;34mChrome driver object creation started.[0m
+12:03:51 23.07.2023 LoginPage: INFO - [0;34mUser "pilya_jan@yahoo.com" has been successfully authenticated.[0m
+12:03:54 23.07.2023 LabelsSearchTest: DEBUG- [0;32mTest Passed[0m

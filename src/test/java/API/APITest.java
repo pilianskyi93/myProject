@@ -1,8 +1,8 @@
 package API;
 
 import io.restassured.http.ContentType;
-import org.junit.jupiter.api.BeforeEach;
-import org.junit.jupiter.api.Test;
+import org.testng.annotations.BeforeMethod;
+import org.testng.annotations.Test;
 
 import java.io.File;
 import java.util.HashMap;
@@ -20,7 +20,7 @@ public class APITest extends BaseAPITest {
 
     Map<String, Object> requestBody = new HashMap<>();
 
-    @BeforeEach
+    @BeforeMethod
     public void setRequestBody() {
 
         Map<String, String> methodProperties = new HashMap<>();
@@ -86,5 +86,4 @@ public class APITest extends BaseAPITest {
    //     DescriptionList.forEach(x -> Assertions.assertTrue(x.getPresent().contains("Абазівка")));
 
     }
-
 }

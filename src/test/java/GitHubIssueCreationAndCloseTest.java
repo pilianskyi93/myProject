@@ -5,10 +5,10 @@ import GitHubIssueCreationAndClose.RepositoryPage;
 import Helpers.Level;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
-import org.junit.jupiter.api.Assertions;
-import org.junit.jupiter.api.Test;
+import org.testng.annotations.Test;
 
 import static Helpers.ColorPrinter.printColorMessage;
+import static org.testng.AssertJUnit.assertTrue;
 
 public class GitHubIssueCreationAndCloseTest extends BaseTest {
 
@@ -25,7 +25,7 @@ public class GitHubIssueCreationAndCloseTest extends BaseTest {
         IssuesPage issuesPage = new IssuesPage(driver);
         issuesPage.submitIssueForm("Test title", "Test comment", "Issue closed");
         issuesPage.getClosedIssueSign();
-        Assertions.assertTrue(issuesPage.getClosedIssueSign().isDisplayed());
+        assertTrue(issuesPage.getClosedIssueSign().isDisplayed());
         printColorMessage("Test Passed", logger, Level.DEBUG);
     }
 }
