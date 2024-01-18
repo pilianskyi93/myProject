@@ -13,7 +13,7 @@ public class LoginPage extends BasePage {
 
     private By loginFieldLocator = By.id("login_field");
     private By passwordFieldLocator = By.id("password");
-    private By signInButtonLocator = By.xpath("//input[@value=\"Sign in\"]");
+    private By signInButtonLocator = By.xpath("//a[contains(@class, 'HeaderMenu-link--sign-in') and contains(text(), 'Sign in')]");
 
     private final static String TITLE = "Login Page";
 
