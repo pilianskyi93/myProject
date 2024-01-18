@@ -7,7 +7,7 @@ import static org.openqa.selenium.support.ui.ExpectedConditions.elementToBeClick
 
 public class HomePage extends BasePage {
 
-    private By signInButtonLocator = By.xpath("//a[contains(text(), \"Sign in\")]");
+    private By signInButtonLocator = By.xpath("//a[contains(@class, 'HeaderMenu-link--sign-in') and contains(text(), 'Sign in')]");
 
     private final static String TITLE = "Home page";
 
